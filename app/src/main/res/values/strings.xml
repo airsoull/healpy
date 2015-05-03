@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Healpy</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="conection_error">Error al actualizar</string>
+
+    <!-- DRAWER -->
+    <string name="show_map">Buscar Farmacias En Mapa</string>
+    <string name="show_comuna">Buscar Farmacias Por Comuna</string>
+    <string name="title_activity_comuna">ComunaActivity</string>
+    <!-- END DRAWER -->
+
+    <!-- TOOLBAR -->
+    <string name="comuna">Farmacias Por Comuna</string>
+    <!-- END TOOLBAR -->
+
+    <!-- MAIN ACTIVITY -->
+    <string name="info">Información</string>
+    <string name="info_complete">Información obtenida en el ministerio de salud. \n\nNo nos hacemos responsables por la información entregada.</string>
+
+    <!-- COMUNA ACTIVITY -->
+    <string name="regions">Elija Región</string>
+    <string name="comunas">Elija Comuna</string>
+    <string name="load_communes">Cargando Comunas</string>
+    <string name="load_drugstores">Cargando Farmacias</string>
+    <string name="not_found_drugstore">No se han encontrado datos en el ministerio de salud de Chile</string>
+    <!-- END COMUNA ACTIVITY -->
+
+    <!-- COMMUNE LIST -->
+    <string name="drugstore">Farmacia</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="schedule">Horario</string>
+    <string name="to">a</string>
+
+</resources>
